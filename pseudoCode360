@@ -1,0 +1,20 @@
+
+Array of Images = [ 36 - 180 ]
+
+imageSprint = bayView360.png
+
+for (i in Images) {
+	i.height = 600px;
+	i.width = 800px;
+
+	canvasPosition = ( 600i + 600 ) //height*frame# + 600px;
+	canvasHTML + "<canvas height='' width='' position=''></canvas>"
+}
+
+
+func canvasToPNG (Array of Images) -> PNG {
+	
+}
+
+
+
